@@ -1,57 +1,60 @@
 # linux-final-project
 Final Project Linux
 
-Or Koren
-
-ID : 208327213
+Ur Koren
 
 CSPP 77
 
+Misson:
+  Build shell script to support fillowing features.
 
 Menu
 
-This is the main manu, 10 options when the 10th option shuts down the script.
+  This is the main manu, 10 options when the 10th option shuts down the script.
 
-Function one
+Menu options
 
-Sometimes the server of Star Wars movie is down and its looking like this : 
+1:
 
-
-When id does work it looks like this:
-
-
+Shows Start Wars movie while creating 7 new users with default password and names, creating a new group "newusers" and assign all the new users into the group.
 
 To exit the movie you have to hit ctrl+J
-Function two
-Verifying that you have cowsay and fortune installed. Then generate quotes.
-I have only 1 home folder so it generates 1 quote.
 
-Function three
-Open a user by input
+2:
 
-Function four
+Provide a random citation as a pinguine to each of the exsisting users in the system and save it in their home folder
+
+3:
+
+Create a user by input
+
+4:
 
 Function that checks if there are failed login errors and returns them.
 
 
-Function five
+5:
+
 Shows your ip addresses.
 
-Function six
+6:
 
 Returns if you are connected to google or not.
 
 
-Function seven
+7:
+
 Takes input of name of app to install and install it.
 
-Function eight
+8:
 
 Takes input of word to search and path of file to search on it. Returns the number the words shows in a specific file.
 
 
-Function nine
+9:
 
 Function will return this screen below if there isn't wireless interface. If there is wireless interface it will display the available network and allows you to connect by input of SSID and password.
 
+10: 
 
+Exit
