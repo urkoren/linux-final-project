@@ -5,7 +5,7 @@
 ### CSPP 77
 
 ## Misson:
-  Build shell script to support fillowing features.
+  Build shell script to support following features.
   
 
 ## Menu
